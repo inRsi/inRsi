@@ -14,6 +14,7 @@ Importez votre fichier .svg dans [Scratch](https://scratch.mit.edu/) comme un sp
 Importez un véhicule (vous pouvez utiliser les véhicules dans le dossier
 [véhicules](https://github.com/inRsi/inRsi/tree/main/Jeu%20de%20Course/vehicules)
  
-
+## Étape 4: Programmation du jeu
+Voici [un exemple](https://scratch.mit.edu/projects/334273243/) de la programmation du jeu,
 
 
